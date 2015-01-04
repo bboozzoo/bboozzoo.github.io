@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               bboozzoo.github.io
+tagline:             
+description:         'Ramblings about coding, technology, etc.'
+url:                 http://bboozzoo.github.io
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Maciek Borzęcki
+  url:               
+  email:             maciek.borzecki@gmail.com
+
+# Custom vars
+# version:             1.0.0
